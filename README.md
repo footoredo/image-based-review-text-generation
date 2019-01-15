@@ -8,6 +8,10 @@ In the current field of computer vision, automatically generating texts from giv
 
 ![Reviews with different emotions](review.png)
 
+## Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHIHZlr9tvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Resources
 
 [ArXiv](https://arxiv.org/abs/1901.04140), [code](https://github.com/zidaneandmessi/Image-Based-Review-Text-Generation-with-Emotional-Guidance)
